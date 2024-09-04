@@ -5,6 +5,7 @@ John Denbutter (1056466)
 makefile instructions:
 	make - creates the executable file A3Checker
 	make clean - asks for permission to remove the executable file A3Checker. reply 'y', or 'n'.
+*note: the makefile does also include functionality for creating "LongestWord" and "DictionaryTest", these were additional programs written to help test the dictionary "american-english" for edge cases that the main program would have to deal with.
 
 
 
