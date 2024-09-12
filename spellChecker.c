@@ -1,9 +1,6 @@
 /*
-CIS 3050
-Assignment 2
-November 7th, 2023
 Created by: John Denbutter
-1056466
+November 7th, 2023
 */
 #define  _POSIX_C_SOURCE 200809L
 
