@@ -1,15 +1,14 @@
-CIS 3050
-Assignment 3
 John Denbutter (1056466)
 
+
 makefile instructions:
-	make - creates the executable file A3Checker
-	make clean - asks for permission to remove the executable file A3Checker. reply 'y', or 'n'.
+	make - creates the executable file spellChecker
+	make clean - asks for permission to remove the executable file spellChecker. reply 'y', or 'n'.
 *note: the makefile does also include functionality for creating "LongestWord" and "DictionaryTest", these were additional programs written to help test the dictionary "american-english" for edge cases that the main program would have to deal with.
 
 
 
-A3Checker instructions:
+spellChecker instructions:
 	Description: A program that tests spelling mistakes of given files to given dictionaries concurrently through threading.
 
 	Notes:  On termination from main menu, any threads that are looping through: their given dictionary, or their given file
@@ -30,7 +29,7 @@ A3Checker instructions:
 		   The main function is responsible for creating new threads using input given at run-time.
 	
 	Sample output for successful run:
-		$./A3Checker
+		$./spellChecker
 		1. Start a new spellchecking task
 		2. Exit
 
