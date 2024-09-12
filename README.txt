@@ -1,4 +1,4 @@
-John Denbutter (1056466)
+John Denbutter
 November 7th, 2023
 
 makefile instructions:
