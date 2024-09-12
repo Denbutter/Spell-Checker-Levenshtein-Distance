@@ -1,5 +1,5 @@
 John Denbutter (1056466)
-
+November 7th, 2023
 
 makefile instructions:
 	make - creates the executable file spellChecker
